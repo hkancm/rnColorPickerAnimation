@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "rnColorPickerAnimation",
+    "slug": "rnColorPickerAnimation",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
